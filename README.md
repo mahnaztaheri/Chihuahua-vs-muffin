@@ -1,0 +1,1 @@
+This project is about image classification using CNN on chihuahua vs muffin data from Kaggle website. In this project I have manipulated the architecture of CNN to address overfitting while keeping the model accurate. At the end, the best performing model is used with cross validation which showed improvement in the model.
